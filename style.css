@@ -1,0 +1,44 @@
+
+h1 {
+	margin: 0;
+	margin-right: 0;
+}
+img {
+	width: 440px;
+	height: 440px;
+}
+.arhive {
+	font-size: 20px;
+}
+a:hover {
+	background-color: red;
+}
+.loop{
+	font-size: 45px;
+	margin: 40px;
+	padding: 50px;
+}
+embed {
+	margin: 0;
+	padding: 0;
+}
+.imeges2 {
+	width: 400px;
+	height: 500px;
+	margin: 0;
+	padding: 0;
+}
+.imeges1 {
+	width: 400px;
+	height: 500px;
+	margin: 0;
+}
+.p1 {
+	font-size: 35px;
+}
+.biba {
+	font-size: 30px;
+}
+.h4 {
+	font-size: 45px;
+}
